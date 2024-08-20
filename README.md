@@ -15,6 +15,8 @@
     🎓 I graduated from VIT University, Department of Computer Applications (Master)
   <br>
     📫 Reach me at: <a href="mailto: connect.govinds@gmail.com">connect.govinds@gmail.com</a>
+  <br>
+    👨‍💻 Contributions: <a href="https://github.com/search?q=is%3Apr+is%3Aclosed+author%3Aguruor&type=pullrequests">here</a>
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
